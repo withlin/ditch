@@ -1,0 +1,5 @@
+package ditch
+
+func store(){
+
+}
